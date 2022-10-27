@@ -23,7 +23,7 @@ python3 -m venv env
 **Activate the virtualenv**
 
 ```bash
-source venv/bin/activate
+source env/bin/activate
 ```
 
 **Install requirements**
