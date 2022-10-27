@@ -5,13 +5,13 @@
 Using SSH
 
 ```bash
-git clone git@github.com:zuri-training/farmvestng-be-pjt-67.git
+git clone ggit@github.com:tjeaneric/Youtube-Video-Downloader.git
 ```
 
 or using HTTPS
 
 ```bash
-git clone https://github.com/zuri-training/farmvestng-be-pjt-67.git
+git clone https://github.com/tjeaneric/Youtube-Video-Downloader.git
 ```
 
 **Create virtualenv**
